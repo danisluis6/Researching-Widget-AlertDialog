@@ -9,6 +9,7 @@
 - [AlertDialog](#alertdialog)
   - [Version1](#version1)
   - [Version2](#version2)
+  - [Version3](#version3)
 
 ##Version1
 <p align="center">
@@ -20,5 +21,8 @@
   <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version2/AlertDialog/version2_1.png">
 </p>
 
-
+##Version3
+<p align="center">
+  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version3/AlertDialog/version2_1.png">
+</p>
 
