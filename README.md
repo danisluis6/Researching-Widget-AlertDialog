@@ -11,7 +11,7 @@
 
 ##Version1
 <p align="center">
-  <img src="https://github.com/danisluis6/Android-External-Libraries/blob/master/SourcesCode/3.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version1_1.png">
 </p>
 
 
