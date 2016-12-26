@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_340f19c56864cbbd126394d389197ca360c1e7c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6be5462dc50254d853fecdf41c70c0ee3b61e49">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9910904b5f2db7b18fe8bbed4c84e3bd88aa5cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_b1fe9be4602b77d01c67d0bb66201899914bbd31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39d1a38616a80c13328f1af9a106698ca8b19720">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/instant-run_4bf49ea0d5b4a3f87b9f275b8af8d46e0722121b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_04179e20a84cf9aac8afc200fca3405e92043666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_2c9e8a64c7bcc99e291727c0efad28b97b71cf36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_062f9da4643763cd3015ec03dd15529d02d7dd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_4f67cadad5c9834e4ff0779fafb87d3f10bfae1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_0fdcc69183482cc985f13662f23e3d0d51881de4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_36dfda6675a895d43d14ef25346fc23274bc23bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_88fe5bf25760105869c7e0172104011be58b69f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_0ad2dc83491c37a2db265710c065e1f69a6fd2cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_69517ddcd00128552bed5f69956231713f2285d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_f42d161f01b31d905094bf2fe896db698f310cf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_45780cd97e32b57a7da3e2ec54243c797ac84b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a07b544c34db263e9724463919fb90589e607837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/enclaveit/Desktop/Researching-Widget-Android/Toast/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_873c4693bc5ebb2fe10e89ecf32d5719f573b768.jar" />
+    </item>
+
+</items>
