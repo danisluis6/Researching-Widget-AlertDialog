@@ -3,6 +3,10 @@ package com.example.enclaveit.alertdialog;
 import android.app.Activity;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
 
 /**
  * Created by enclaveit on 16/12/2016.
@@ -13,27 +17,20 @@ public class AlertDialog {
     private static android.app.AlertDialog alertDialog;
 
     public static android.app.AlertDialog onCreateDialog(final Activity activity, String titlex, String messagex, final Context context) {
-        /**
-         * Initial AlertDialog and draw componet concerning inside AlertDialog
-         */
+        // Initial AlertDialog and draw componet concerning inside AlertDialog
         android.app.AlertDialog.Builder builder = new android.app.AlertDialog.Builder(activity);
 
-        // Set title for AlertDialog
-        builder.setTitle(titlex);
-
-        // Set dialog message
-        builder.setMessage(messagex)
-        .setCancelable(false)
-        // Add action buttons
-        .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+        // Get Layout AlertDialog Android
+        LayoutInflater inflater = activity.getLayoutInflater();
+        View layout = inflater.inflate(R.layout.ui_alert, (ViewGroup) activity.findViewById(R.id.toast_layout_root));
+        builder.setView(layout);
+        // Set Content for AlertDailog
+        Button great = (Button)layout.findViewById(R.id.great);
+        // Add Event for button
+        great.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(DialogInterface dialog, int id) {
+            public void onClick(View view) {
                 activity.finish();
-            }
-        })
-        .setNegativeButton("Cancle", new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int id) {
-                dialog.cancel();
             }
         });
         android.app.AlertDialog alertDialog = builder.create();

@@ -11,6 +11,7 @@ public class MainActivity extends Activity {
 
     private Context context = this;
     private Button demo;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
