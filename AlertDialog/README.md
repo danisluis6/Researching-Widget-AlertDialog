@@ -17,7 +17,7 @@
 
 ##Version2
 <p align="center">
-  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version1/AlertDialog/version2_1.png">
+  <img src="https://github.com/danisluis6/Researching-Widget-Android/blob/version2/AlertDialog/version2_1.png">
 </p>
 
 
